@@ -1,0 +1,237 @@
+What is the difference between var, let, and const?
+
+Explain event loop, microtasks, and macrotasks.
+
+what is asynchronous & synchronous
+
+What is hoisting and how does it work?
+hoisting is a javascript machanism, that took all the variable at top while compilation, allowing them to use even before actual declaration
+
+
+Explain closures with real-world use cases.
+
+What are higher-order functions?
+
+Difference between == and ===?
+
+What are pure functions and why are they important?
+
+What is currying in JavaScript?
+
+Explain the concept of prototypal inheritance.
+
+How does this keyword work in different contexts?
+
+What is debouncing and throttling?
+
+What is the temporal dead zone (TDZ)?
+
+Explain call(), apply(), and bind().
+
+What are generators and when do you use them?
+
+Explain async/await and how it works internally.
+
+What is the difference between synchronous and asynchronous code?
+
+What is a promise? Can you explain promise chaining?
+
+What is memoization and when is it useful?
+
+Explain shadow copy vs deep copy.
+
+Explain JavaScript garbage collection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---- ReactJS started 
+re are React.js interview questions only — from 0 to 6 years experience, grouped by level.
+
+🟢 Beginner (0–1 year)
+
+What is React?
+
+What are components in React?
+
+What is JSX?
+
+What is the virtual DOM?
+
+What is the difference between functional and class components?
+
+What are props in React?
+
+What is state in React?
+
+What is lifting state up?
+
+What is conditional rendering?
+
+What are React fragments?
+
+What is the purpose of keys in lists?
+
+What is a controlled vs uncontrolled component?
+
+What is the difference between className and class in JSX?
+
+What is React.StrictMode?
+
+What is the difference between props and state?
+
+🟡 Intermediate (1–3 years)
+
+What are React hooks?
+
+Explain the useState() hook.
+
+Explain the useEffect() hook and its dependency array.
+
+Difference between useEffect() and useLayoutEffect()?
+
+What is useRef(), and where do we use it?
+
+What is memoization in React?
+
+What is React.memo()?
+
+What is useCallback(), and why is it useful?
+
+What is useMemo(), and why is it useful?
+
+What are custom hooks, and how do you create them?
+
+What is context API?
+
+What is prop drilling?
+
+How does React handle forms?
+
+What is error boundary?
+
+What are portals in React?
+
+What is reconciliation?
+
+What is the diffing algorithm in React?
+
+What is the purpose of key prop in lists?
+
+What is lazy loading (React.lazy)?
+
+What is Suspense?
+
+🔵 Advanced (3–6 years)
+
+Explain React fiber architecture.
+
+What is concurrent rendering in React?
+
+What problems does React fiber try to solve?
+
+What is the difference between client-side rendering (CSR) and server-side rendering (SSR)?
+
+What is hydration in React?
+
+What is useTransition()?
+
+What is useDeferredValue()?
+
+What is the difference between controlled and uncontrolled components internally?
+
+What is the difference between re-render and reconciliation?
+
+Explain how React batching works.
+
+What triggers a re-render in React?
+
+How to optimize performance in React?
+
+What is a render phase vs commit phase?
+
+Explain the concept of stale closures in React hooks.
+
+Why is useEffect sometimes called “react’s escape hatch”?
+
+How do you prevent unnecessary re-renders?
+
+What is key re-mounting issue in React lists?
+
+Why should keys not be index in production?
+
+How does React handle events internally?
+
+What is the difference between synthetic events and native events?
+
+How does context cause re-renders and how to prevent it?
+
+What is React Server Components?
+
+What is signal-driven rendering (in React 19)?
+
+What is the difference between useEffect vs useEvent (React 19)?
+
+How does React Router work internally?
+
+What is the difference between Redux, Zustand, Jotai, and Recoil?
+
+What is the difference between Redux Thunk and Redux Saga?
+
+What is selectors and memoized selectors?
+
+What is tree-shaking, and how does React benefit from it?
+
+What is the difference between SSR, SSG, and ISR (Next.js)?
+
+What is hydration mismatch?
+
+What are race conditions in React async code?
+
+How does Suspense work under the hood?
+
+🟣 Expert-Level (Bonus for 6+ years)
+
+Explain Render-as-you-fetch pattern (React Suspense).
+
+Explain Time-Slicing in React Fiber.
+
+What is the difference between interruptible vs non-interruptible rendering?
+
+Explain priority levels in React Fiber.
+
+How React decides when to “pause” rendering?
+
+Explain how React preserves state across re-renders and remounts.
+
+How does useEffect cleanup work internally?
+
+Explain "bailout" in React rendering.
+
+How React handles batching in async events vs sync events.
+
+What is the difference between old context API vs new context API?
+
+What are WeakMaps used for inside React internals?
+
+Explain why React rerenders child components even when props are unchanged.
+
+What are referential equality issues in React?
+
+Why does React need keys for children?
+
+Explain how hooks are stored internally using linked lists.
