@@ -210,7 +210,7 @@ Cleanup function helps remove previous side effects.
         It can be used to access DOM elements directly or store any mutable value.
 
 
-        useRef is a React hook that returns a persistent, mutable object whose .current value survives across renders. It’s used to access DOM elements directly or store mutable values without causing re-renders.
+        useRef is a React hook that returns a persistent, mutable object whose .current value survives across renders. It/s used to access DOM elements directly or store mutable values without causing re-renders.
 
         ` },
 
